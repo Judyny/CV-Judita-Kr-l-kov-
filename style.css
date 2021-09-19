@@ -1,0 +1,104 @@
+body {
+    color: #1a100b;
+    background-color: #fcc39d;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    line-height: 1.5;
+    overflow: auto;
+    margin: 0;
+    padding: 0;
+}
+
+table{
+    padding: 0 0 30px 250px;
+}
+
+.adresa{
+    padding-left: 400px;
+}
+
+.pracovni_zkusenosti h2{
+    padding-top: 30px;
+}
+
+h1 {font-size: 50px;
+    font-style: italic;
+    text-align: center;
+    color: #fcc39d;
+    background-color: #1a100b;
+    padding: 0;
+    margin: 0;
+}
+
+h2{
+    text-align: center;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    padding-top: 0px;
+    margin: 0;
+}
+
+h3{
+    padding-left:200px;
+}
+
+img {
+    width: 19%;
+    height: 19%;
+    float: right;
+    border-radius: 30% 0 30% 0;
+    border: solid 2px #1a100b;
+    padding: 30px;
+    margin: 15px}
+    
+a {color:#1a100b}
+
+.obecne,
+.vzdelani,
+.pracovni_zkusenosti,
+.znalosti_a_dovednosti{
+    padding: 30px 0;
+    margin: 0;
+}
+
+.obecne,
+.pracovni_zkusenosti{
+    background-color: #946247;
+    margin: 0;
+    padding: 0 0 30px 0;
+}
+
+p{
+    padding: 0 0 0 250px  
+}
+
+.menu li{display: inline-block;}
+
+.menu{
+    text-align: center;
+    background-color: #1a100b;
+    margin: 0;
+    padding: 0°;
+}
+
+.menu a{
+    display: inline-block;
+    color: #fcc39d;
+    text-decoration: none;
+    padding: 15px 40px;
+}
+
+.menu a:hover,
+.menu a:focus,
+.menu a:active{
+    background-color: #5c4032;
+}
+
+.paticka{
+    background-color: #1a100b;
+    color: #fcc39d;
+    text-align: center;
+    padding: 10px 0;
+    margin: 0;
+}
+
